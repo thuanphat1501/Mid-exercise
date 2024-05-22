@@ -1,0 +1,6 @@
+﻿  menu.c
+C:\Users\Phat\Desktop\New folder\Project1\Project1\menu.c(30,8): warning C4477: 'scanf' : format string '%d' requires an argument of type 'int *', but variadic argument 1 has type 'char *'
+  C:\Users\Phat\Desktop\New folder\Project1\Project1\menu.c(30,8):
+  consider using '%hhd' in the format string
+  
+  Project1.vcxproj -> C:\Users\Phat\Desktop\New folder\Project1\x64\Debug\Project1.exe
